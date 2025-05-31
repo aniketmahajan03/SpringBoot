@@ -27,3 +27,28 @@ Lombok (for cleaner code)
 | GET    | `/students`      | Get list of all students |
 | DELETE | `/students/{id}` | Delete a student by ID   |
 
+🚀 How to Run
+Clone the repository.
+
+Open the project in your preferred IDE.
+
+Make sure you have Java and Maven installed.
+
+Run the application using:
+
+bash
+Copy
+Edit
+mvn spring-boot:run
+Test the API using Postman or any REST client.
+
+🔍 Example Student JSON
+json
+Copy
+Edit
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "course": "Computer Science"
+}
+
