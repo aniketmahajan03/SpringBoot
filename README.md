@@ -47,8 +47,8 @@ json
 Copy
 Edit
 {
-  "name": "John Doe",
-  "email": "john.doe@example.com",
+  "name": "Aniket Mahajan",
+  "email": "aniketmahajan@example.com",
   "course": "Computer Science"
 }
 
