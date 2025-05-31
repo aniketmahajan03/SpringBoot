@@ -20,3 +20,10 @@ Spring Data JPA
 H2 Database / MySQL (as per your setup)
 
 Lombok (for cleaner code)
+
+| Method | Endpoint         | Description              |
+| ------ | ---------------- | ------------------------ |
+| POST   | `/students`      | Register a new student   |
+| GET    | `/students`      | Get list of all students |
+| DELETE | `/students/{id}` | Delete a student by ID   |
+
